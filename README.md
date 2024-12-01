@@ -11,24 +11,20 @@ This repository is a festive collection of my solutions for the annual **Advent 
 ## 🗂 Repository Constellation
 
 
-advent-of-code-solutions/
-├── Year-2024/
-│   ├── Day-01/
-│   │   ├── input.txt
-│   │   ├── solution.py
-│   │   └── README.md
-│   ├── Day-02/
-│   │   ├── input.txt
-│   │   ├── solution.py
-│   │   └── README.md
-│   ...
-│   └── Day-25/
-│       ├── input.txt
-│       ├── solution.py
-│       └── README.md
-├── Year-2023/
-│   └── ... (Previous year's solutions)
-└── README.md
+- advent-of-code/
+  - Day-01/
+    - input.txt
+    - solution.py
+    - README.md
+  - Day-02/
+    - input.txt
+    - solution.py
+    - README.md
+  - ...
+  - Day-25/
+    - input.txt
+    - solution.py
+    - README.md
 
 
 ### 📁 What's Inside Each Day's Folder?
